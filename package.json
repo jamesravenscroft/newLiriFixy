@@ -1,0 +1,20 @@
+{
+  "name": "newlirifixy",
+  "version": "1.0.0",
+  "description": "I have battled node far too long",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesravenscroft/newLiriFixy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesravenscroft/newLiriFixy/issues"
+  },
+  "homepage": "https://github.com/jamesravenscroft/newLiriFixy#readme"
+}
